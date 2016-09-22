@@ -24,47 +24,47 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-RSS-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RSS-ISO8601DateFormatterValueTransformer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RSS-RKValueTransformers.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RSS-RestKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RSS-SOCKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RSS-TransitionKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RSS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-RestKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Pods-SOCKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS-AFNetworking.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS-ISO8601DateFormatterValueTransformer.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS-RKValueTransformers.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS-RestKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS-SOCKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS-TransitionKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TaskRSS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -82,12 +82,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0E9229125716F81EDB34DB820D6A5229</key>
+		<key>094D629C132D7984F61031F0FCB05471</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1722CF6ED5D11DC43F6A1BCFD08EB0F6</key>
+		<key>22F9039A64E2EC029040FFAEE4717903</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2AC265E11C8B530AEE04694E6A776B00</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D6C722B76A2B2D4E46ED1DE35E8B68D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -97,12 +107,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6132C633EA823DE0F1F93C390504525D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>631BD21581D272F864943A0E167024A5</key>
+		<key>5F2E8F9665396DC0AF11AFAABC493BB6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -112,22 +117,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>835C71555D47129122646869140C81C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9D8434644685FE64A92CFEA71E855F49</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A7E9E80DDD8095B1EF39648036D2569E</key>
+		<key>A128552703D472C4CEC5E3B906BEE28C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AF1627085146EEAAB5B4BEFF925BB5B4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>B36D5E972D6FA68D92800A4091C6FA6C</key>
+		<key>BB33486C1EF94A3859FA87CD211D6AB9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -137,22 +142,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D7840CD86F3ABF2F730478AF121B9C68</key>
+		<key>D58B929FFB8A563B325B0AD4F01305CF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E3D1EB75F23093689DC43B2683ABAFA3</key>
+		<key>E1E0A26924DA1A17CE2D92FC2C917084</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E8D5982555F463D59E526A85BFA52BEA</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F93969E15C3167913F86F87844EE742A</key>
+		<key>F1E3F8D41B5C863C0F149A152FD2620E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

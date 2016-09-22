@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E8789833D01E7522E6B2C57C"
-               BuildableName = "libPods-TransitionKit.a"
-               BlueprintName = "Pods-TransitionKit"
+               BlueprintIdentifier = "B5389B3E3CE87067DAE9F1AF"
+               BuildableName = "libPods-RSS-AFNetworking.a"
+               BlueprintName = "Pods-RSS-AFNetworking"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
